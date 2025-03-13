@@ -7,7 +7,7 @@
 
 ## **Description**
 
-Ce projet est une application fullstack affichant les **10 premières cryptomonnaies** en termes de capitalisation boursière dans un tableau. Elle met également en évidence les **3 cryptos ayant le plus grand pourcentage de variation sur 24 heures** dans un graphique dynamique.
+Ce projet est une application fullstack affichant les **10 premières cryptomonnaies** en termes de capitalisation boursière dans un tableau. Elle met également en évidence les **3 cryptos ayant le plus grand pourcentage de variation sur 24 heures** .
 
 L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, avec une mise en cache côté backend pour optimiser les appels API.
 
