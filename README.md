@@ -44,7 +44,7 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 ### **Frontend**
 ✅ Affichage des **10 cryptos principales** sous forme de **tableau**.
 
-✅ Affichage des **3 cryptos plus performant** sous forme de **tableau**.
+✅ Affichage des **3 cryptos plus performant** sous forme de **card**.
 
 ✅ Mise en avant des **10 cryptos** sur **3  graphique dynamique , un bachart , un line chart et un pie chart**.
 
