@@ -50,7 +50,15 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 
 ✅ **Interface responsive** et ergonomique.
 
----
+
+
+## Aprercu Du Dashboard
+
+1. ![Image 1](./images/dashbaord.png)
+2. ![Image 2](./images/chart.png)
+3. ![Image 3](./images/piechart.png)
+
+
 
 ## **Installation et exécution**
 
