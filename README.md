@@ -62,16 +62,16 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 
 ## **Installation et exécution**
 
- `bash
+1. **Cloner le dépôt** :
+   ```bash
    git clone https://github.com/test_springboot_angular
-   cd test_springboot_angular``
-
+   cd test_springboot_angular
 
 ### **Backend** (Spring Boot)
 
 1. **Changer de ficher** :
-   `bash
-   cd demo``
+   ```bash
+   cd demo
    ```
 
 2. **Configurer Maven** et **lancer l'application** :
