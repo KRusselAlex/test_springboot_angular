@@ -25,7 +25,7 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 - Angular 19
 - TypeScript
 - Tailwind 
-- ng2-charts (pour le graphique)
+- chart js (pour le graphique)
 - RxJS (gestion des appels HTTP)
 
 ---
