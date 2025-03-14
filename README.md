@@ -111,7 +111,7 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 
 ## **Contributeurs**
 
-- [Kouawou Alex-Russel](https://github.com/KAlexRussel)
+- [Kouawou Alex-Russel](https://github.com/KRusselAlex)
 
 ---
 

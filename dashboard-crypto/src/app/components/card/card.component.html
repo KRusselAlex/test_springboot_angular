@@ -4,7 +4,7 @@
       <div class="w-full flex flex-row gap-3">
           <div *ngFor="let crypto of cryptos; let i = index"
             class="bg-white   dark:bg-gray-800 p-4 rounded-lg shadow-sm mb-4 w-full">
-            <div class="flex items-center justify-between mb-4">
+            <div class="flex items-center justify-center gap-3 mb-4">
               <img src="{{ crypto.image }}" alt="{{ crypto.name }}" class="w-16 h-16 rounded-full">
               <div class="flex flex-col ml-4">
                 <h3 class="text-lg font-semibold text-surface dark:text-white">{{ crypto.name }}</h3>
