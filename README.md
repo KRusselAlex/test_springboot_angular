@@ -54,7 +54,7 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 
 ## Aprercu Du Dashboard
 
-1. ![Image 1](./images/dashbaord.png)
+1. ![Image 1](./images/dashboard.png)
 2. ![Image 2](./images/chart.png)
 3. ![Image 3](./images/piechart.png)
 
@@ -111,7 +111,7 @@ L'application repose sur **Spring Boot (Backend)** et **Angular (Frontend)**, av
 
 ## **Contributeurs**
 
-- [Kouawou Alex-Russel](https://github.com/KRusselAlex)
+- [Kouawou Alex-Russel]('alex-russel.kouawou@epitech.eu')
 
 ---
 
